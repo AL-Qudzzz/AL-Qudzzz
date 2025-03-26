@@ -1,13 +1,34 @@
-# 💫 About Me:
-Hello! My name is Muhammad Faiqul Umam Dzunnuroeni. I am a graduate of Computer and Network Engineering and currently pursuing a Bachelor's degree in Information Systems at UIN Syarif Hidayatullah Jakarta.<br><br>I have a strong interest in Web Development, Front-End, and Network Administration. With a solid foundation in computer networking and ongoing learning in information systems, I strive to bridge technical expertise with innovative solutions.<br><br>I am passionate about creating impactful projects, learning cutting-edge technologies, and continuously improving my skills in both software and network management. I am open to collaborations and always eager to take on new challenges in the tech industry.
+# 💫 About Me
+Hello! I’m **Muhammad Faiqul Umam Dzunnuroeni**, a graduate of **Computer and Network Engineering** and currently pursuing a Bachelor’s degree in **Information Systems** at UIN Syarif Hidayatullah Jakarta.  
 
+I’m passionate about **Web Development**, **Front-End Design**, and **Network Administration**. With a strong foundation in networking and growing expertise in information systems, I aim to create innovative solutions that bridge technology and creativity. I love tackling impactful projects, exploring cutting-edge tools, and leveling up my skills in software and network management.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qudznnrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaiquludz) 
+💡 **Open to collaborations** | 🚀 **Always chasing new challenges in tech**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Al-Qudzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Al-Qudzzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Qudzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qudznnrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaiquludz)
+
+---
+
+# 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfaiquludz&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaiquludz&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfaiquludz&theme=radical)
+
+---
+
+# ✨ Fun Additions
+- **Current Vibe:** ![Typing](https://img.shields.io/badge/Coding%20Like%20a%20Boss-%23FF5733.svg?style=flat-square&logo=codeforces)
+- **Latest Learning:** Exploring APIs and responsive design with Tailwind CSS.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mfaiquludz.mfaiquludz)
