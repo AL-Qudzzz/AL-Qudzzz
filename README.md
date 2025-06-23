@@ -1,5 +1,5 @@
 <div align="center">
-  # 💫 About Me:
+
 Hello! My name is Muhammad Faiqul Umam Dzunnuroeni. I am a graduate of Computer and Network Engineering and currently pursuing a Bachelor's degree in Information Systems at UIN Syarif Hidayatullah Jakarta.<br><br>I have a strong interest in Web Development, Full-Stack, Mobile dev, and Network Administration. With a solid foundation in computer networking and ongoing learning in information systems, I strive to bridge technical expertise with innovative solutions.<br><br>I am passionate about creating impactful projects, learning cutting-edge technologies, and continuously improving my skills in both software and network management. I am open to collaborations and always eager to take on new challenges in the tech industry.
 
 
