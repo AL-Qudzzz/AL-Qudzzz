@@ -15,8 +15,8 @@ Hello! My name is Muhammad Faiqul Umam Dzunnuroeni. I am a graduate of Computer 
 ![](https://nirzak-streak-stats.vercel.app/?user=AL-Qudzzz&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Qudzzz&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AL-Qudzzz&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AL-Qudzzz&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AL-Qudzzz&icon=8&color=0)](https://visitcount.itsvg.in)
