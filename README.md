@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=3A86FF&center=true&vCenter=true&width=800&lines=Computer+%26+Network+Engineering+Graduate;Information+Systems+Student;Web+%7C+Mobile+%7C+Network+Developer;Building+Systems+That+Actually+Work" />
 </div>
 
-# Hai, Saya Muhammad Faiqul Umam Dzunnuroeni! 👋
+# Hellow, Saya Muhammad Faiqul Umam Dzunnuroeni! 👋
 
 Saya adalah lulusan **Teknik Komputer dan Jaringan** yang saat ini sedang menempuh pendidikan S1 program studi **Sistem Informasi** di **Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta**. Saya memiliki minat yang kuat dalam *Web Development*, *Full-Stack Programming*, *Software Engineering*, dan *Network Administration*. 
 
@@ -35,11 +35,11 @@ Berikut adalah teknologi dan alat pendukung yang sering saya gunakan dalam penge
 ## 📂 Sorotan Portofolio Proyek
 Berikut adalah beberapa proyek unggulan yang merepresentasikan keterampilan saya di bidang pengembangan sistem dan analisis data:
 
-|  |  |
+|  | |
 | :--- | :--- |
-| **[WasteGO](https://github.com/AL-Qudzzz/WasteGO)**<br>Project Hackathon Kompetisi Ilmiah PTKIN.<br>🔹 *TypeScript* | **[Project-Quran](https://github.com/AL-Qudzzz/Project-Quran)**<br>Project Aplikasi Al-Quran pada platform Android.<br>🔹 *Kotlin* |
-| **[SebasAI](https://github.com/AL-Qudzzz/SebasAI)**<br>Aplikasi bertenaga AI tingkat lanjut untuk memberikan solusi dan layanan cerdas.<br>🔹 *TypeScript* | **[PH-AIC](https://github.com/AL-Qudzzz/PH-AIC)**<br>Project Hackaton AIC.<br>🔹 *TypeScript* |
-| **[Velo](https://github.com/AL-Qudzzz/Velo)**<br>Sistem *Automatic Blasting* untuk platform WhatsApp.<br>🔹 *Python* | **[Video-Games-Analysis-Portofolio](https://github.com/AL-Qudzzz/Video-Games-Analysis-Portofolio)**<br>Analisis trend penjualan video games untuk mata kuliah Gudang Data dan Kecerdasan Bisnis.<br>🔹 *Jupyter Notebook* |
+| **[WasteGO](https://github.com/AL-Qudzzz/WasteGO)**<br>Project Hackathon Kompetisi Ilmiah PTKIN.<br>🔹 *TypeScript*<br> 🔹 **Keterampilan:** *Web Development, Sustainable Tech, Problem Solving* | **[Project-Quran](https://github.com/AL-Qudzzz/Project-Quran)**<br>Project Aplikasi Al-Quran pada platform Android.<br>🔹 *Kotlin*<br> 🔹 **Keterampilan:** *Android Development, Mobile UI/UX, API Integration* |
+| **[SebasAI](https://github.com/AL-Qudzzz/SebasAI)**<br>Aplikasi bertenaga AI tingkat lanjut untuk memberikan solusi dan layanan cerdas.<br>🔹 *TypeScript*<br> 🔹 **Keterampilan:** *AI Integration, Modern Web Tech, Prompt Engineering* | **[PH-AIC](https://github.com/AL-Qudzzz/PH-AIC)**<br>Project Hackaton AIC.<br>🔹 *TypeScript*<br> 🔹 **Keterampilan:** *Rapid Prototyping, Web Development, Team Collaboration* |
+| **[Velo](https://github.com/AL-Qudzzz/Velo)**<br>Sistem *Automatic Blasting* untuk platform WhatsApp.<br>🔹 *Python*<br> 🔹 **Keterampilan:** *Automation, Python Scripting, WhatsApp API* | **[Video-Games-Analysis-Portofolio](https://github.com/AL-Qudzzz/Video-Games-Analysis-Portofolio)**<br>Analisis trend penjualan video games untuk mata kuliah Gudang Data dan Kecerdasan Bisnis.<br>🔹 *Jupyter Notebook*<br> 🔹**Keterampilan:** *Data Analysis, Exploratory Data Analysis (EDA), Data Visualization* |
 
 ## 📊 Statistik GitHub
 <div align="center">
