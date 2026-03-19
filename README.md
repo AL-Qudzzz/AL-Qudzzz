@@ -28,8 +28,9 @@ Berikut adalah teknologi dan alat pendukung yang sering saya gunakan dalam penge
 * **Juara 1 Best Final Project - Weekly Class Web Developer (Back-End):** Diselenggarakan oleh **Google Developer Group (GDG) on Campus (2025)**, berkontribusi sebagai *Backend Developer* dan merancang arsitektur sistem.
 * **Juara 1 Best Final Project - Weekly Android Dev:** Diselenggarakan oleh **Google Developer Group (GDG) on Campus (2025)**, merancang aplikasi *mobile* menggunakan Kotlin dan bertindak sebagai *Backend Developer*.
 * **Juara 1 Best Final Project - Weekly Class AI/ML:** Diselenggarakan oleh **Google Developer Group (GDG) on Campus (2025)**, berkontribusi dalam mendeskripsikan data (*noise*, tipe data, volume) serta menjelaskan grafik *Exploratory Data Analysis* (EDA).
-* **Finalis Hackathon IFEST 2025:** Berkontribusi sebagai *Backend Developer* sekaligus bertanggung jawab atas *Quality Control* (QC) proyek.
 * **Finalis Hackathon ITECHNO 2025:** Berkontribusi secara langsung sebagai *Front-End Developer*.
+* **Finalis (Top 10) Hackathon IFEST (2025):** Berkompetisi hingga tahap final (Top 10 dari 15 tim) yang diselenggarakan oleh IDCloudHost & ILCS.
+* **Participant:** Berpartisipasi dalam COMPFEST 17 AI Innovation Challenge, DigiHack 2025, dan NEXTGEN AGENTS HACKATHON.
 * **Sertifikasi Junior Networking Administration (2024):** Berhasil mempersiapkan dan lulus sertifikasi administrator jaringan yang diselenggarakan oleh BNSP.
 
 ## 📂 Sorotan Portofolio Proyek
