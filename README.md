@@ -35,35 +35,19 @@ Berikut adalah teknologi dan alat pendukung yang sering saya gunakan dalam penge
 ## 📂 Sorotan Portofolio Proyek
 Berikut adalah beberapa proyek unggulan yang merepresentasikan keterampilan saya di bidang pengembangan sistem dan analisis data:
 
-### 1. [WasteGO](https://github.com/AL-Qudzzz/WasteGO)
-* **Deskripsi:** Project Hackathon Kompetisi Ilmiah PTKIN.
-* **Teknologi Utama:** TypeScript.
-
-### 2. [Project-Quran](https://github.com/AL-Qudzzz/Project-Quran)
-* **Deskripsi:** Project Aplikasi Al-Quran pada platform Android.
-* **Teknologi Utama:** Kotlin.
-
-### 3. [SebasAI](https://github.com/AL-Qudzzz/SebasAI)
-* **Deskripsi:** Aplikasi bertenaga AI tingkat lanjut yang dibangun dengan teknologi web modern untuk memberikan solusi dan layanan cerdas.
-* **Teknologi Utama:** TypeScript.
-
-### 4. [PH-AIC](https://github.com/AL-Qudzzz/PH-AIC)
-* **Deskripsi:** Project Hackaton AIC.
-* **Teknologi Utama:** TypeScript.
-
-### 5. [Velo](https://github.com/AL-Qudzzz/Velo)
-* **Deskripsi:** Sistem *Automatic Blasting* untuk platform WhatsApp.
-* **Teknologi Utama:** Python.
-
-### 6. [Video-Games-Analysis-Portofolio](https://github.com/AL-Qudzzz/Video-Games-Analysis-Portofolio)
-* **Deskripsi:** Analisis trend penjualan video games dan pembuatan portofolio analisis data untuk mata kuliah Gudang Data dan Kecerdasan Bisnis.
-* **Teknologi Utama:** Jupyter Notebook (Python).
+|  |  |
+| :--- | :--- |
+| **[WasteGO](https://github.com/AL-Qudzzz/WasteGO)**<br>Project Hackathon Kompetisi Ilmiah PTKIN.<br>🔹 *TypeScript* | **[Project-Quran](https://github.com/AL-Qudzzz/Project-Quran)**<br>Project Aplikasi Al-Quran pada platform Android.<br>🔹 *Kotlin* |
+| **[SebasAI](https://github.com/AL-Qudzzz/SebasAI)**<br>Aplikasi bertenaga AI tingkat lanjut untuk memberikan solusi dan layanan cerdas.<br>🔹 *TypeScript* | **[PH-AIC](https://github.com/AL-Qudzzz/PH-AIC)**<br>Project Hackaton AIC.<br>🔹 *TypeScript* |
+| **[Velo](https://github.com/AL-Qudzzz/Velo)**<br>Sistem *Automatic Blasting* untuk platform WhatsApp.<br>🔹 *Python* | **[Video-Games-Analysis-Portofolio](https://github.com/AL-Qudzzz/Video-Games-Analysis-Portofolio)**<br>Analisis trend penjualan video games untuk mata kuliah Gudang Data dan Kecerdasan Bisnis.<br>🔹 *Jupyter Notebook* |
 
 ## 📊 Statistik GitHub
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AL-Qudzzz&theme=shadow_blue&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Qudzzz&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
+<br/>
 
 ## 📫 Mari Terhubung!
 Saya selalu terbuka untuk diskusi mengenai pengembangan perangkat lunak, kolaborasi proyek, atau peluang profesional baru.
