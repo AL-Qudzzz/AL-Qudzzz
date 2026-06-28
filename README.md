@@ -1,8 +1,10 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Muhammad%20Faiqul%20U.D.&desc=Software%20Engineer%20and%20Data%20Specialist&descAlign=50&descAlignY=80" />
+  
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=3A86FF&center=true&vCenter=true&width=800&lines=Computer+%26+Network+Engineering+Graduate;Information+Systems+Student;Web+%7C+Mobile+%7C+Network+Developer;Building+Systems+That+Actually+Work" />
 </div>
 
-# Hellow, Saya Muhammad Faiqul Umam Dzunnuroeni! 👋
+# About Me
 
 Saya adalah lulusan **Teknik Komputer dan Jaringan** yang saat ini sedang menempuh pendidikan S1 program studi **Sistem Informasi** di **Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta**. Saya memiliki minat yang kuat dalam *Web Development*, *Full-Stack Programming*, *Software Engineering*, dan *Network Administration*. 
 
