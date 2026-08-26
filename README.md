@@ -2,18 +2,9 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=AL-Qudzzz&theme=aurora&label=AL-Qudzzz" width="100%" alt="3D ASCII wordmark for Muhammad Faiqul U.D." />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=AL-Qudzzz&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=AL-Qudzzz&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Muhammad Faiqul U.D." />
-  </picture>
-</p>
-
 # About Me
 
-Saya adalah lulusan **Teknik Komputer dan Jaringan** yang saat ini sedang menempuh pendidikan S1 program studi **Sistem Informasi** di **Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta**. Saya memiliki minat yang kuat dalam *Web Development*, *Full-Stack Programming*, *Software Engineering*, dan *Network Administration*. 
-
-Dengan dasar yang kuat dalam jaringan komputer dan pembelajaran berkelanjutan di sistem informasi, saya berusaha menjembatani keahlian teknis dengan solusi yang inovatif dan berdampak. Saya sangat antusias untuk berkolaborasi, menghadapi tantangan baru, dan berkontribusi pada kemajuan teknologi di era digital.
+Too Lazy To Explain. Just Judge Me
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=AL-Qudzzz&theme=aurora" width="100%" alt="Animated language stack for Muhammad Faiqul U.D." />
@@ -32,12 +23,6 @@ Dengan dasar yang kuat dalam jaringan komputer dan pembelajaran berkelanjutan di
 <p align="center">
   <img src="https://www.gitskins.com/api/section/projects?username=AL-Qudzzz&theme=aurora" width="100%" alt="Animated pinned projects section for AL-Qudzzz" />
 </p>
-
-|  | |
-| :--- | :--- |
-| **[WasteGO](https://github.com/AL-Qudzzz/WasteGO)**<br>Project Hackathon Kompetisi Ilmiah PTKIN.<br>🔹 *TypeScript*<br> 🔹 **Keterampilan:** *Web Development, Sustainable Tech, Problem Solving* | **[Project-Quran](https://github.com/AL-Qudzzz/Project-Quran)**<br>Project Aplikasi Al-Quran pada platform Android.<br>🔹 *Kotlin*<br> 🔹 **Keterampilan:** *Android Development, Mobile UI/UX, API Integration* |
-| **[SebasAI](https://github.com/AL-Qudzzz/SebasAI)**<br>Aplikasi bertenaga AI tingkat lanjut untuk memberikan solusi dan layanan cerdas.<br>🔹 *TypeScript*<br> 🔹 **Keterampilan:** *AI Integration, Modern Web Tech, Prompt Engineering* | **[PH-AIC](https://github.com/AL-Qudzzz/PH-AIC)**<br>Project Hackaton AIC.<br>🔹 *TypeScript*<br> 🔹 **Keterampilan:** *Rapid Prototyping, Web Development, Team Collaboration* |
-| **[Velo](https://github.com/AL-Qudzzz/Velo)**<br>Sistem *Automatic Blasting* untuk platform WhatsApp.<br>🔹 *Python*<br> 🔹 **Keterampilan:** *Automation, Python Scripting, WhatsApp API* | **[Video-Games-Analysis-Portofolio](https://github.com/AL-Qudzzz/Video-Games-Analysis-Portofolio)**<br>Analisis trend penjualan video games untuk mata kuliah Gudang Data dan Kecerdasan Bisnis.<br>🔹 *Jupyter Notebook*<br> 🔹**Keterampilan:** *Data Analysis, Exploratory Data Analysis (EDA), Data Visualization* |
 
 ## Stats
 
