@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=AL-Qudzzz&theme=aurora&label=AL-Qudzzz" width="100%" alt="3D ASCII wordmark for Muhammad Faiqul U.D." />
-</p>
-
 # About Me
 
 Too Lazy To Explain. Just Judge Me
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=AL-Qudzzz&theme=aurora" width="100%" alt="Animated language stack for Muhammad Faiqul U.D." />
-</p>
 
 ## 🏆 Pengalaman & Pencapaian
 * **Juara 1 Hackathon Green Tech (PTKIN 2025):** Berperan sebagai *Hacker* dalam tim kompetisi ilmiah Fakultas Sains dan Teknologi, bertugas membangun *Minimum Viable Product* (MVP) untuk proyek berkelanjutan.
@@ -19,16 +11,6 @@ Too Lazy To Explain. Just Judge Me
 * **Finalis (Top 10) Hackathon IFEST (2025):** Berkompetisi hingga tahap final (Top 10 dari 15 tim) yang diselenggarakan oleh IDCloudHost & ILCS.
 * **Participant:** Berpartisipasi dalam COMPFEST 17 AI Innovation Challenge, DigiHack 2025, dan NEXTGEN AGENTS HACKATHON.
 * **Sertifikasi Junior Networking Administration (2024):** Berhasil mempersiapkan dan lulus sertifikasi administrator jaringan yang diselenggarakan oleh BNSP.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=AL-Qudzzz&theme=aurora" width="100%" alt="Animated pinned projects section for AL-Qudzzz" />
-</p>
-
-## Stats
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=AL-Qudzzz&theme=aurora" width="100%" alt="Animated GitHub stats for AL-Qudzzz" />
-</p>
 
 <br/>
 
