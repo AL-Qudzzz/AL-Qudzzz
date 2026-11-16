@@ -8,7 +8,7 @@ Too Lazy To Explain. Just Judge Me
 * **Juara 1 Best Final Project - Weekly Android Dev:** Diselenggarakan oleh **Google Developer Group (GDG) on Campus (2025)**, merancang aplikasi *mobile* menggunakan Kotlin dan bertindak sebagai *Backend Developer*.
 * **Juara 1 Best Final Project - Weekly Class AI/ML:** Diselenggarakan oleh **Google Developer Group (GDG) on Campus (2025)**, berkontribusi dalam mendeskripsikan data (*noise*, tipe data, volume) serta menjelaskan grafik *Exploratory Data Analysis* (EDA).
 * **Finalis (Top 5) Hackathon ITECHNO 2025:** Berkontribusi secara langsung sebagai *Front-End Developer*.
-* **Finalis (Top 10) Hackathon IFEST (2025):** Berkompetisi hingga tahap final (Top 10 dari 15 tim) yang diselenggarakan oleh IDCloudHost & ILCS.
+* **Finalis (Top 10) Hackathon IFEST (2025):** Berkompetisi hingga tahap final yang diselenggarakan oleh Universitas Padjajaran serta IDCloudHost & ILCS.
 * **Participant:** Berpartisipasi dalam COMPFEST 17 AI Innovation Challenge, DigiHack 2025, dan NEXTGEN AGENTS HACKATHON.
 * **Sertifikasi Junior Networking Administration (2024):** Berhasil mempersiapkan dan lulus sertifikasi administrator jaringan yang diselenggarakan oleh BNSP.
 
